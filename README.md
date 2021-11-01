@@ -1,11 +1,10 @@
-# snake-game-rust
+# Rusty Snake
 Little snake clone made in Rust for own practice.
 
 ## How to Play
-Arrows keys to move. It's snake, you know how to play snake... right?
+Arrows keys to move.
 
 ## Usage
-Clone repository, build, and run.
 
 ### Installation
 ```
